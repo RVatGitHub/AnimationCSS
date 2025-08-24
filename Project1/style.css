@@ -10,5 +10,8 @@
     width: 300px;
     height: 300px;
     border: 1px solid black;
-    transform: scaleX(0.2);
+    // tranform: rotate(45deg);
+    /* transform: rotate(50grad); */
+    /* transform: rotate(6.28rad); // 2 * 3.14 */
+    transform: rotate(0.2turn);
 }
