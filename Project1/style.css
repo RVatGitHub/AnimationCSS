@@ -13,5 +13,5 @@
     // tranform: rotate(45deg);
     /* transform: rotate(50grad); */
     /* transform: rotate(6.28rad); // 2 * 3.14 */
-    transform: rotate(0.2turn);
+    /* transform: skew(40deg, 40deg); */
 }
